@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(ps4-assets/disconnected.svgz);
+    background: url(https://ijomar.github.io/ds4/offline.png);
 }
 
 .ds4.disconnected div {
@@ -284,7 +284,7 @@ background-position: 0 -70px;
 }
 
 .ds4.white.disconnected {
-    background: url(ps4-assets/disconnected.svgz);
+    background: url(https://ijomar.github.io/ds4/offline);
 }
 
 .ds4.white .trigger {
