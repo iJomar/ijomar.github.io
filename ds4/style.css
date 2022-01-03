@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://ijomar.github.io/ds4/face.png);
+    background: url(https://ijomar.github.io/ds4/dpad.png);
     position: absolute;
 }
 
@@ -312,7 +312,7 @@ background-position: 0 -70px;
 }
 
 .ds4.white .face {
-    background-image: url(https://ijomar.github.io/ds4/face.png);
+    background-image: url(https://ijomar.github.io/ds4/dpad.png);
 }
 
 /*END PS4 White Controller Styling*/
