@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(ps4-assets/triggers.svgz);
+    background: url(https://ijomar.github.io/ds4/triggers.png);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(ps4-assets/bumper.svgz) no-repeat;
+    background: url(https://ijomar.github.io/ds4/bumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -89,7 +89,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(ps4-assets/meta.svgz) no-repeat center;
+    background: url(https://ijomar.github.io/ds4/meta.png) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -288,11 +288,11 @@ background-position: 0 -70px;
 }
 
 .ds4.white .trigger {
-    background-image: url(ps4-white-assets/triggers.svgz);
+    background-image: url(https://ijomar.github.io/ds4/triggers.png);
 }
 
 .ds4.white .bumper {
-    background-image: url(ps4-white-assets/bumper.svgz);
+    background-image: url(https://ijomar.github.io/ds4/bumper.png);
 }
 
 .ds4.white .touchpad.pressed {
@@ -308,7 +308,7 @@ background-position: 0 -70px;
 }
 
 .ds4.white .stick {
-    background-image: url(sticks.png);
+    background-image: url(https://ijomar.github.io/ds4/sticks.png);
 }
 
 .ds4.white .face {
